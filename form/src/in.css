@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+    background-color: lightgreen;
+    color:white;
+    margin-bottom: 10px;
+}
+div{  
+    text-align: center;
+}
+input{
+    margin-top:10px;
+    background-color: lightblue;
+    border:none;
+    outline: none;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+button{
+    padding:8px;
+    width:150px;
+    color:white;
+    background-color: darkgreen;
+    border:none;
+    border-radius: 20px;
+    
+}
